@@ -1,3 +1,6 @@
+[![aa830's Github Stats](https://github-readme-stats.vercel.app/api?username=aa830)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, I’m @aa830
 - 👀 I’m interested in flight simulators
 - 🌱 I’m currently learning how to exist
