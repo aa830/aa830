@@ -2,9 +2,9 @@
 
 
 - 👋 Hi, I’m @aa830
-- 👀 I’m interested in flight simulators
-- 🌱 I’m currently learning how to exist
-- 💞️ I’m currently working on my High School Computer Science project
+- 👀 I’m interested in... sleeping.
+- 🌱 I’m currently learning how to climb the approaching mountain that is IBDP. 
+- 💞️ I’m currently working on my High School Computer Science project(s), and my upcoming Personal Project (idk what to do tho)
 - 📫 How to reach me: aarvd2030@gmail.com
 
 (P.S I'm usually not very active)
